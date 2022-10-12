@@ -12,7 +12,6 @@ public class Callbyreference {
 			System.out.println(example[i]);
 		}
 		callbyFun(example);
-		System.out.println("1");
 	}
 
 		
